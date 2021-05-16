@@ -1,0 +1,2 @@
+(this["webpackJsonpcurrency-converter"]=this["webpackJsonpcurrency-converter"]||[]).push([[0],{11:function(e,c,n){"use strict";n.r(c);var r=n(1),t=n.n(r),s=n(3),a=n.n(s),i=(n(8),n(9),n(0));var o=function(){return Object(i.jsx)("div",{className:"App",children:Object(i.jsx)("header",{className:"App-header",children:Object(i.jsx)("h1",{children:"REACT app"})})})};a.a.render(Object(i.jsx)(t.a.StrictMode,{children:Object(i.jsx)(o,{})}),document.getElementById("root"))},8:function(e,c,n){},9:function(e,c,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.e0ee8889.chunk.js.map
